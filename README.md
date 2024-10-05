@@ -10,6 +10,8 @@ This repository contains projects, assignments, and notes from the C++ Bootcamp 
 - Object-Oriented Programming (OOP) concepts
 - Dynamic memory allocation
 - File handling in C++
+- Vector
+- Tuple
 - STL (Standard Template Library)
 
 The bootcamp provided a hands-on approach, and this repo reflects my learnings and practical implementations. Feel free to explore and contribute!
